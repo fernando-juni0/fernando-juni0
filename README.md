@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
+
 # 💫 About Me:
 🔭 I currently work as a freelancer.<br>🚀 I seek to innovate areas through technology.<br>💫 I develop mainly with javascript frameworks<br>🌱 I'm currently studying Nodejs and Reactjs<br> ✳  I intend to study Nextjs in the future
 
