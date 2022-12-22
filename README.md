@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9055FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Júnio;I'm+17+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9055FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Júnio;I'm+17+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I currently work as a freelancer.<br>🚀 I seek to innovate areas through technology.<br>💫 I develop mainly with javascript frameworks<br>🌱 I'm currently studying Nodejs and Reactjs<br> ✳  I intend to study Nextjs in the future
@@ -16,6 +18,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fernando-juni0&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernando-juni0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fernando-juni0&bg_color=d2d1ff&color=000000&line=9900ff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fernando-juni0&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
