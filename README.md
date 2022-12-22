@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9055FF&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Fernando+Júnio;I'm+17+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🔭 I currently work as a freelancer.<br>🚀 I seek to innovate areas through technology.<br>💫 I develop mainly with javascript frameworks<br>🌱 I'm currently studying Nodejs and Reactjs<br> ✳  I intend to study Nextjs in the future
 
@@ -23,4 +25,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=fernando-juni0&icon=5&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9055FF&height=120&section=footer"/>
+
