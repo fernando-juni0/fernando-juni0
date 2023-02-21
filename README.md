@@ -11,6 +11,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fernando-junio-669809237/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20814699/fernando-júnio) 
 ## ☎️ Communication:
+[![](https://uploaddeimagens.com.br/images/004/361/721/original/banner-portifolio.png?1676996687)](https://portifolio-fernando.onrender.com)
 
 <a href="https://portifolio-fernando.onrender.com" target="_blank"> <img src="https://uploaddeimagens.com.br/images/004/361/721/original/banner-portifolio.png?1676996687" height="35" alt="portifolio banner"  /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwCdMGvTZPKJrCQFCCpTzNWHJVzcvrGShPbHPllPhSkCgRZLGndkXdFNbRKKlFFXtrsWxC" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
