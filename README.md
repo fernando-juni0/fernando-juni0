@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 🔭 I currently work as a freelancer.<br>🚀 I seek to innovate areas through technology.<br>💫 I develop mainly with javascript frameworks<br>🌱 I'm currently studying Nodejs and Reactjs<br> ✳  I intend to study Nextjs in the future
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-júnio-da-silva-santana-669809237/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20814699/fernando-júnio) 
