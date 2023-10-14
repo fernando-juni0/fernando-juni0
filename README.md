@@ -17,7 +17,7 @@
 </a>
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,figma,aws,git,github,bash,blender,bots,express,electron,firebase,heroku,linux,mysql,nginx,ps,regex,sequelize,unreal,vscode&perline=3&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,figma,aws,git,github,bash,blender,bots,express,electron,firebase,heroku,linux,mysql,nginx,ps,regex,sequelize,unreal,vscode&perline=5&theme=dark)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=fernando-juni0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fernando-juni0&theme=tokyonight&hide_border=false)<br/>
